@@ -12,7 +12,7 @@ async function load(){
 	}
 	$('#count').hide();
 	$('#photo').show();
-	for(let index = 1; index <= 19; index++){
+	for(let index = 1; index <= 25; index++){
 		$('#photo').attr("src","img/gallery/" + index + ".jpg");
 		await sleep(2000);
 	}
