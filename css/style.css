@@ -2,16 +2,23 @@
 	cursor: pointer;
 }
 
+.font_50{
+	font-size: 50px;
+}
+
 .font_30{
 	font-size: 30px;
 }
 
-.font_50{
-	font-size: 40px;
+#count{
+	font-size: 400px;
 }
 
-#count{
-  font-size: 400px;
+#title{
+	font-size: 200px;
+}
+
+.red_gradient{
   background-image: linear-gradient(to left, #9D0000, #9D000a);
   text-align: center;
   color: transparent;
